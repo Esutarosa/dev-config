@@ -5,6 +5,9 @@ When switching from Windows to Linux, I often encounter dependency issues.
 
 Below are solutions to the most common problems I've faced.
 
+> [!NOTE]
+> For an example of how to solve problems, see the Arch Linux distribution
+
 When working with the `rest.nvim` plugin using LuaRocks, you may encounter the following issues:
 
 ### Missing `unzip`
