@@ -18,6 +18,8 @@ return {
         "rust",
         "c",
         "go",
+        "vue",
+        "dockerfile",
       },
       query_linter = {
         enable = true,
