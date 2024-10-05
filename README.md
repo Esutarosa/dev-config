@@ -5,3 +5,5 @@
 ## Contents
 
 - vim (Neovim) config
+- tmux config
+- git config
